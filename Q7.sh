@@ -15,7 +15,7 @@ for file in "$@"
 do
         linesInFile="$(wc -l < $file)";
         lines=$((lines+linesInFile));
-        echo -e "There are $linesInFile lines in $file \n\n" | tee -a logFile.txt;
+        echo -e "\nThere are $linesInFile lines in $file \n\n" | tee -a logFile.txt;
         i=$((i+1));
         echo -e "So far, we have processed a total of $i Files \n\n" | tee -a logFile.txt
         echo -e "So far, In these $i Files, there have been a total of $lines Lines \n\n" | tee -a logFile.txt
