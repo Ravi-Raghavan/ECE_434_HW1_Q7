@@ -31,7 +31,7 @@ done
 echo -e "\n\n=========== Final Results of Program ===========" | tee -a logFile.txt;
 echo -e "\n\nWe have finished processing a total of $i Files\n\n" | tee -a logFile.txt;
 echo -e "As our final result, the total number of lines across all $i Files is $lines\n\n" | tee -a logFile.txt;
-echo -e "The contents of all the files we have processed will now appear on the console \n\n" | tee -a logFile.txt;
+echo -e "The contents of all the $i files we have processed will now appear on the console \n\n" | tee -a logFile.txt;
 cat outFile.txt | tee -a logFile.txt;
 
 echo -e "\n\nProgram Finished! \n\n" | tee -a logFile.txt;
