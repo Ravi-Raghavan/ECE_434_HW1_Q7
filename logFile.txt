@@ -5,13 +5,13 @@
 
 
 
-There are        5 lines in file1.txt 
+There are        6 lines in file1.txt 
 
 
 So far, we have processed a total of 1 Files 
 
 
-So far, In these 1 Files, there have been a total of 5 Lines 
+So far, In these 1 Files, there have been a total of 6 Lines 
 
 
 The contents of file1.txt will now be printed 
@@ -22,6 +22,7 @@ It is used to test the Bash Shell Script
 Line 3
 Line 4
 Line 5
+Line 6
 
 
 
@@ -34,6 +35,7 @@ It is used to test the Bash Shell Script
 Line 3
 Line 4
 Line 5
+Line 6
 
 
 
@@ -49,7 +51,7 @@ There are       12 lines in file2.txt
 So far, we have processed a total of 2 Files 
 
 
-So far, In these 2 Files, there have been a total of 17 Lines 
+So far, In these 2 Files, there have been a total of 18 Lines 
 
 
 The contents of file2.txt will now be printed 
@@ -79,6 +81,7 @@ It is used to test the Bash Shell Script
 Line 3
 Line 4
 Line 5
+Line 6
 
 
 This is File 2
@@ -108,7 +111,7 @@ There are       17 lines in file3.txt
 So far, we have processed a total of 3 Files 
 
 
-So far, In these 3 Files, there have been a total of 34 Lines 
+So far, In these 3 Files, there have been a total of 35 Lines 
 
 
 The contents of file3.txt will now be printed 
@@ -143,6 +146,7 @@ It is used to test the Bash Shell Script
 Line 3
 Line 4
 Line 5
+Line 6
 
 
 This is File 2
@@ -191,7 +195,7 @@ There are       11 lines in file4.txt
 So far, we have processed a total of 4 Files 
 
 
-So far, In these 4 Files, there have been a total of 45 Lines 
+So far, In these 4 Files, there have been a total of 46 Lines 
 
 
 The contents of file4.txt will now be printed 
@@ -220,6 +224,7 @@ It is used to test the Bash Shell Script
 Line 3
 Line 4
 Line 5
+Line 6
 
 
 This is File 2
@@ -276,7 +281,7 @@ Line 11
 We have finished processing a total of 4 Files
 
 
-As our final result, the total number of lines across all 4 Files is 45
+As our final result, the total number of lines across all 4 Files is 46
 
 
 The contents of all the 4 files we have processed will now appear on the console 
@@ -287,6 +292,7 @@ It is used to test the Bash Shell Script
 Line 3
 Line 4
 Line 5
+Line 6
 
 
 This is File 2
