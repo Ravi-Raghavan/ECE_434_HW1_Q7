@@ -2,14 +2,18 @@ This is File 1 stored in the home directory
 It is used to test the Bash Shell Script
 Line 3
 Line 4
-Line 5This is file 2 that is stored in the home directory 
+Line 5
+
+This is file 2 that is stored in the home directory 
 This is used to test the Bash Shell Script
 This file contains different lines from File 1
 Line 4
 Line 5
 Line 6
 Line 7
-Line 8This is a 3rd test file 
+Line 8
+
+This is a 3rd test file 
 Line 2
 Line 3
 Line 4
@@ -19,3 +23,4 @@ Line 7
 Line 8
 Line 9
 Line 10
+
