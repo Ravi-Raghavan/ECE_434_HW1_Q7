@@ -1,5 +1,8 @@
-This is file 2 that is stored in my home directory 
-This is used to test my Bash Shell Script!
+This is file 2 that is stored in the home directory 
+This is used to test the Bash Shell Script
 This file contains different lines from File 1
-Testing 
-Information`
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
