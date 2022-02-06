@@ -1,5 +1,5 @@
 This is File 1 stored in the home directory 
 It is used to test the Bash Shell Script
-Line 1
-Line 2
 Line 3
+Line 4
+Line 5
