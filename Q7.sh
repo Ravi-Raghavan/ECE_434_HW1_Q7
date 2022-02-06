@@ -22,6 +22,7 @@ do
         echo -e "So far, In these $i Files, there have been a total of $lines Lines \n\n" | tee -a logFile.txt;
         echo -e "The contents of $file will now be printed \n\n" | tee -a logFile.txt;
         cat "$file" | tee -a outFile.txt logFile.txt;
+	echo -e "\n" | tee -a outFile.txt logFile.txt;
         echo -e "\n\nThe contents of all $i files we have processed so far will now appear on the console \n\n" | tee -a logFile.txt;
         cat outFile.txt | tee -a logFile.txt;
 
