@@ -1,0 +1,166 @@
+
+
+=========== Currently Processing File #1===========
+
+
+
+
+There are 4 lines in file1.txt 
+
+
+So far, we have processed a total of 1 Files 
+
+
+So far, In these 1 Files, there have been a total of 4 Lines 
+
+
+The contents of file1.txt will now be printed 
+
+
+This is File 1 stored in the home directory 
+It is used to test the Bash Shell Script
+Line 3
+Line 4
+Line 5
+
+The contents of all 1 files we have processed so far will now appear on the console 
+
+
+This is File 1 stored in the home directory 
+It is used to test the Bash Shell Script
+Line 3
+Line 4
+Line 5
+
+=========== Currently Processing File #2===========
+
+
+
+
+There are 7 lines in file2.txt 
+
+
+So far, we have processed a total of 2 Files 
+
+
+So far, In these 2 Files, there have been a total of 11 Lines 
+
+
+The contents of file2.txt will now be printed 
+
+
+This is file 2 that is stored in the home directory 
+This is used to test the Bash Shell Script
+This file contains different lines from File 1
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+
+The contents of all 2 files we have processed so far will now appear on the console 
+
+
+This is File 1 stored in the home directory 
+It is used to test the Bash Shell Script
+Line 3
+Line 4
+Line 5This is file 2 that is stored in the home directory 
+This is used to test the Bash Shell Script
+This file contains different lines from File 1
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+
+=========== Currently Processing File #3===========
+
+
+
+
+There are 9 lines in file3.txt 
+
+
+So far, we have processed a total of 3 Files 
+
+
+So far, In these 3 Files, there have been a total of 20 Lines 
+
+
+The contents of file3.txt will now be printed 
+
+
+This is a 3rd test file 
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Line 10
+
+The contents of all 3 files we have processed so far will now appear on the console 
+
+
+This is File 1 stored in the home directory 
+It is used to test the Bash Shell Script
+Line 3
+Line 4
+Line 5This is file 2 that is stored in the home directory 
+This is used to test the Bash Shell Script
+This file contains different lines from File 1
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8This is a 3rd test file 
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Line 10
+
+=========== Final Results of Program ===========
+
+
+We have finished processing a total of 3 Files
+
+
+As our final result, the total number of lines across all 3 Files is 20
+
+
+The contents of all the 3 files we have processed will now appear on the console 
+
+
+This is File 1 stored in the home directory 
+It is used to test the Bash Shell Script
+Line 3
+Line 4
+Line 5This is file 2 that is stored in the home directory 
+This is used to test the Bash Shell Script
+This file contains different lines from File 1
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8This is a 3rd test file 
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Line 10
+
+Program Finished! 
+
+
