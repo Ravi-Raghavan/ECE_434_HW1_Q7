@@ -5,7 +5,7 @@
 
 
 
-There are        6 lines in file1.txt 
+There are 6 lines in file1.txt 
 
 
 So far, we have processed a total of 1 Files 
@@ -45,7 +45,7 @@ Line 6
 
 
 
-There are       12 lines in file2.txt 
+There are 12 lines in file2.txt 
 
 
 So far, we have processed a total of 2 Files 
@@ -105,7 +105,7 @@ Line 12
 
 
 
-There are       17 lines in file3.txt 
+There are 17 lines in file3.txt 
 
 
 So far, we have processed a total of 3 Files 
@@ -189,7 +189,7 @@ Line 17
 
 
 
-There are       11 lines in file4.txt 
+There are 11 lines in file4.txt 
 
 
 So far, we have processed a total of 4 Files 
